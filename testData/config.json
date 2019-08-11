@@ -1,0 +1,11 @@
+{
+  "ListenHost": "127.0.0.1",
+  "Port": "4321",
+  "WriteTimeoutInSec":4321,
+  "ReadTimeoutInSec":4321,
+  "IdleTimeoutInSec": 4321,
+  "RestDomain": "127.0.0.1",
+  "LogFilePath": "./testData/log",
+  "PasswdFilePath": "./testData/passwd",
+  "GroupFilePath": "./testData/group"
+}
